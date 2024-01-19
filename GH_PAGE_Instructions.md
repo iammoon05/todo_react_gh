@@ -13,4 +13,6 @@ npm install gh-pages --save-dev
 
 4. Go to settings page
    1. From the side bar Code and Automation section -> Pages
-   2. 
+
+
+"deploy": "gh-pages -b main -d build"
